@@ -1,6 +1,6 @@
 # NodeGet-StatusShow
 
-一个服务器状态展示页，NodeGet的公开探针页面
+一个服务器状态展示页，NodeGet的公开探针页面。
 
 欢迎开发者基于此版本进行定制，也欢迎 pr 到本项目
 
